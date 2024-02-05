@@ -1,5 +1,4 @@
 <html>
-<title> learning html </title>
 <body>
 <head> The eb was creted only for educational purpose </head>
 <background-color:blue>
